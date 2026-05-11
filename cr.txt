@@ -1,0 +1,20 @@
+server/
+  services/
+    notificationService.js   ✅
+  jobs/
+    cronJobs.js              (your file)
+//chang in cronJobs.js
+const NotificationService = require('../services/notificationService');
+
+
+
+//Clint/manager
+
+
+    //const csvContent = [headers.join(','), ...rows.map(r => r.join(','))].join('');
+	const csvContent = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+
+You still have the same bug in:
+
+src/pages/manager/Attendance.jsx (line ~36)
+src/pages/supervisor/Attendance.jsx (line ~32)

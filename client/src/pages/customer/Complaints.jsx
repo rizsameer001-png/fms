@@ -1,0 +1,1 @@
+export default function CustomerComplaints() { return <div className="p-8"><h1 className="text-2xl font-bold">My Complaints</h1><p className="text-gray-500 mt-2">Complaint history coming soon...</p></div>; }

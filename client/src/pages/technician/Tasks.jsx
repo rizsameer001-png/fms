@@ -1,0 +1,1 @@
+export default function TechnicianTasks() { return <div className="p-8"><h1 className="text-2xl font-bold">My Tasks</h1><p className="text-gray-500 mt-2">Task list coming soon...</p></div>; }

@@ -1,0 +1,41 @@
+node_modules/
+.env
+.env.local
+uploads/*
+!uploads/.gitkeep
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+server/serviceAccountKey.json
+
+
+# Build outputs
+dist/
+build/
+
+# Local uploads and temporary files
+uploads/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Archives and compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Documentation and logs
+*.txt
+*.text
+*.log
+
+
+# Dependency and Build folders
+node_modules/
+dist/
+build/
+
