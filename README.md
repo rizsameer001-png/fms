@@ -1,6 +1,6 @@
-# Facility Management System (FMS)
+# Faci Management System (FMS)
 
-A complete enterprise-level Facility Management System with multi-role support, real-time operations, GPS tracking, and mobile workforce management.
+A complete enterprise-level Faci Management System with multi-role support, real-time operations, GPS tracking, and mobile workforce management.
 
 ## Technology Stack
 
